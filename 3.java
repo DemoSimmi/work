@@ -1,3 +1,0 @@
-dvsdbsbfbdvsdb
-simmi
-sethi
