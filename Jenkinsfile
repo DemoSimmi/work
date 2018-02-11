@@ -1,4 +1,4 @@
-properties([[$class: 'GithubProjectProperty', displayName: '', projectUrlStr: 'https://github.com/simmiaggarwal/simmi/']])
+properties([pipelineTriggers([cron('* * * * *')])])
 
 pipeline
 {
