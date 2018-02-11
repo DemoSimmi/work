@@ -11,7 +11,7 @@ agent any
 						            }
 							            stage('Test') {
 								                steps {
-										                echo 'Testingjhckjfhrelefvrgrtlg'
+										                echo 'Testing'
 												            }
 													            }
 														            stage('Deploy') {
