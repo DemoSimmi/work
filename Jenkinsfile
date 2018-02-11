@@ -1,3 +1,4 @@
+properties([[$class: 'GithubProjectProperty', displayName: '', projectUrlStr: 'https://github.com/simmiaggarwal/simmi/']])
 pipeline
 {
 agent any
